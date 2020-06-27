@@ -17,7 +17,7 @@ jobs:
       TEST_BUILD: 'true'
       MAINTAINER: '@Imranpopz'
       CHANGELOG: |
-        TEST BUILD FOR NEW THEME
+        TEST BUILD
     working_directory: /home/builder/pitchblack
     steps:
       - run:
