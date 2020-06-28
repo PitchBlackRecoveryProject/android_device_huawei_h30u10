@@ -117,5 +117,4 @@ BOARD_RIL_CLASS := ../../../$(LOCAL_PATH)/ril/
 TARGET_USERIMAGES_USE_EXT4:=true
 USE_CAMERA_STUB := true
 
-PB_GO := true
 PB_FORCE_DD_FLASH := true
